@@ -3,85 +3,86 @@
 ### Скриншот настроек VirtualBox.
 
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот развёрнутой ОС.
-
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот команд, с помощью которых устанавливали обновления.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот с созданными пользователями.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+
 
 ### Скриншот или файл с выводом команды ipconfig.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот или файл с выводом команды traceroute или ping при проверке доступности сервера с компьютера.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 
 ### Скриншот вывода команды ping yandex.ru.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот вывода команды cat ~/.ssh/id_rsa.pub.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот успешного подключения по SSH.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).   
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Вывод результата выполнения команды systemctl в виде файла или скриншота.  
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 
 ### Скриншот конфигурационных настроек apache с настройками SSL.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот добавленного разрешающего правила по 443 порту в iptables.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот с результатами подключения четырёх дополнительных модулей для apache.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот открытого дефолтного сайта на localhost или 127.0.0.1 через браузер на виртуальной машине, открытый по порту 443.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).   
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
 
 ### Скриншот запущенного сайта на php.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).   
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).   
 
 ### Требования к длине пароля. Настроена парольная политика. Скриншот ответа при попытке ввода неподходящего по политике пароля.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_622.png).  
+
 
 ### Инструкция по установке безопасного пароля.
 
@@ -117,19 +118,19 @@ echo "ваш_пароль" | cracklib-check
 Блокировка после 5 неудачных попыток: 15 минут
 
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).   
 
 ###  Скриншоты, подтверждающие выполнение обязательных пунктов.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).    
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
 
 
 ### Скриншоты и описание, подтверждающие пять дополнительных настроек безопасности Linux.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).    
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).   
 
 
 ### Документ с описанием вероятных сценариев отказа и ваших действий при них.
@@ -179,19 +180,19 @@ DDoS-атака                    1-24 часа	                 Зависит
 
 
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
 
 ### Скриншот, показывающий рабочий процесс резервного копирования.
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).   
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
 
 
 ### Скриншот, показывающий успешное чтение и настройку ротации
 
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
 
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox-Linux/blob/main/Screenshot_622.png).  
+
