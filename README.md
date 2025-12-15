@@ -116,24 +116,22 @@ Tuxcat в нынешних реалиях установить не вышло..
 ### Скриншоты и описание, подтверждающие пять дополнительных настроек безопасности Linux.
 
 Установлен fail2ban
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_667.png).   
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_667.png).     
 
 Заблокированы подключения IPv6
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_668.png).   
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_668.png).     
 
 Настройка ограничения ресурсов через ulimit(защита и предотвращение атак на исчерапание ресурсов)
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_669.png).
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_669.png).  
 
 Настройка безопасного SSH
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_670.png). 
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_670.png).   
 
+Защита от эксплуатации уязвимостей ядра, предотвращение переполнений буфера
 ![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_671.png).    
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_672.png). 
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_673.png).    
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_674.png). 
+ 
 
 ### Документ с описанием вероятных сценариев отказа и ваших действий при них.
-
   
 a) Внутренние угрозы  
 Сценарий 1: Непреднамеренная ошибка администратора   
@@ -169,29 +167,28 @@ b) Внешние угрозы
 Тип: SYN-flood, HTTP-flood    
 
 c) Последствия отказа системы  
-Сценарий	                  Время простоя                	Финансовые потери          	Репутационные потери	             Сложность восстановления  
-Удаление конфигов	            1-4 часа	                    Средние	                      Средние	                         Низкая (есть бэкапы)  
-Взлом SSH	                    2-8 часов	                    Высокие	                      Высокие	                             Средняя  
-DDoS-атака                    1-24 часа	                 Зависит от бизнеса	              Высокие	                             Низкая  
-Переполнение диска	          0.5-2 часа	                  Низкие	                      Низкие	                             Низкая   
-Эксплойт веб-приложения     	4-48 часов	                Критичные	                    Критичные                              Высокая  
-
-
-
-
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_679.png).  
+ 
 
 ### Скриншот, показывающий рабочий процесс резервного копирования.
 
-
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).   
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
+Резервные копии через rsync, ежедневно в 2 часа ночи, с разбивкой на сутки, нееделя, месяц. 
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_672.png).   
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_673.png).  
 
 
 ### Скриншот, показывающий успешное чтение и настройку ротации
 
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
-![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_680.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_674.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_675.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_676.png).  
+![alt text](https://github.com/SLzDevOps/Skillbox_Linux/blob/main/Pictures/Screenshot_677.png).  
+
+
+
+
+Все залитые сриншоты:
+https://github.com/SLzDevOps/Skillbox_Linux/tree/main/Pictures
+
 
 
